@@ -1,7 +1,7 @@
 # LPC2378_ADC
 This repo contains the basic configurations for ADC module of the LPC2378 based development kit (MCB2300) and displaying the A2D converted value through on-board LCD
 
-Following are the configurations to be followed for setting the ADC module of the LPC 2378:
+Following are the configurations to be followed for setting the ADC module of the LPC 2378 (availble in the "Program.c" file of the repository:
 - Enable ADC using PCONP.PCAD register (bit 12)
 ![image](https://github.com/anr2311/LPC2378_ADC/assets/72514473/509e4db1-c1b0-49b2-a231-bc808238b2fb)
 
