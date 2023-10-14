@@ -28,3 +28,4 @@ Following are the configurations to be followed for setting the ADC module of th
 
 - Process the available results - available in AD0GDR [15:6]
 ![image](https://github.com/anr2311/LPC2378_ADC/assets/72514473/3bf06257-0ad2-41b8-bcef-dcd4ad8a7b17)
+
