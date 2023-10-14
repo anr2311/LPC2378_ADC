@@ -1,0 +1,21 @@
+<html>
+<body>
+<pre>
+<h1>µVision3 Build Log</h1>
+<h2>Project:</h2>
+E:\KeilARM\ARM\Boards\Keil\MCB2300\RTC\RTC.uv2
+Project File Date:  09/11/2009
+
+<h2>Output:</h2>
+Build target 'Target 1'
+assembling LPC2300.s...
+compiling LCD_4bit.c...
+compiling RTC.c...
+compiling IRQ.c...
+linking...
+Program Size: Code=3228 RO-data=96 RW-data=32 ZI-data=1288  
+"LCD.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\KeilARM\\ARM\\Boards\\Keil\\MCB2300\\RTC\\LCD.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.

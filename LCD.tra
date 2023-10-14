@@ -1,0 +1,22 @@
+*** Creating Trace Output File 'LCD.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"lpc2300.o"'
+### List of Objects: adding '"lcd_4bit.o"'
+### List of Objects: adding '"rtc.o"'
+### List of Objects: adding '"irq.o"'
+### ADS-LD Command completed:
+--device DARMP "lpc2300.o" "lcd_4bit.o" "rtc.o" "irq.o" --library_type=microlib --strict --scatter "LCD.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\LCD.map" -o "LCD.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: 'LCD.axf'
+### ADS-LD Command File: 'LCD.lnp'
+### Checking for dirty Components...
+### Creating CmdFile 'LCD.lnp', Handle=0x00000264
+### Writing '.lnp' file
+### ADS-LD Command file 'LCD.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.
